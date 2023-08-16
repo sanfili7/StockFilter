@@ -6,8 +6,6 @@ Created on Tue Aug 21 22:26:01 2018
 @author: jaspersanfilippo
 """
 
-### Alpha Vantage API Key: XXXXXXXXXXXXXXXX
-
 import urllib.request
 from bs4 import BeautifulSoup
 import requests
